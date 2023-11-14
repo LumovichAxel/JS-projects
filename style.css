@@ -1,0 +1,16 @@
+.container{
+    height: 50vh;
+    background-color: lightcoral;
+    border: 3px solid black;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 100px 1fr 300px;
+}
+
+.container div{
+    background-color: aqua;
+    border: 2px solid rgb(47, 0, 200);
+    border-radius: 10px;
+}
+
+/*Miau*/
